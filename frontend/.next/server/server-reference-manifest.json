@@ -1,0 +1,39 @@
+{
+  "node": {
+    "7f202a1bb1b28f8f59cd5ecaa34bd35653e9372ff6": {
+      "workers": {
+        "app/(auth)/sign-in/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fness%2FIslington%2Fsmart_banking%2Ffrontend%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%5B%227f202a1bb1b28f8f59cd5ecaa34bd35653e9372ff6%22%2C%22fetchUserDetails%22%5D%2C%5B%227f4ee979a7a94f980d3aa09b39756444bcc9405d70%22%2C%22signUp%22%5D%2C%5B%227f61cd297d845be24477fbfbe31affd6244cf88d89%22%2C%22signIn%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-in/page": "action-browser"
+      }
+    },
+    "7f4ee979a7a94f980d3aa09b39756444bcc9405d70": {
+      "workers": {
+        "app/(auth)/sign-in/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fness%2FIslington%2Fsmart_banking%2Ffrontend%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%5B%227f202a1bb1b28f8f59cd5ecaa34bd35653e9372ff6%22%2C%22fetchUserDetails%22%5D%2C%5B%227f4ee979a7a94f980d3aa09b39756444bcc9405d70%22%2C%22signUp%22%5D%2C%5B%227f61cd297d845be24477fbfbe31affd6244cf88d89%22%2C%22signIn%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-in/page": "action-browser"
+      }
+    },
+    "7f61cd297d845be24477fbfbe31affd6244cf88d89": {
+      "workers": {
+        "app/(auth)/sign-in/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fness%2FIslington%2Fsmart_banking%2Ffrontend%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%5B%227f202a1bb1b28f8f59cd5ecaa34bd35653e9372ff6%22%2C%22fetchUserDetails%22%5D%2C%5B%227f4ee979a7a94f980d3aa09b39756444bcc9405d70%22%2C%22signUp%22%5D%2C%5B%227f61cd297d845be24477fbfbe31affd6244cf88d89%22%2C%22signIn%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-in/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "KShNc+AojiCRdfBM679HC2NVQr0zLp+/p3l1Ufe8Vx4="
+}
