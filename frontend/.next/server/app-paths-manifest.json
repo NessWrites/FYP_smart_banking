@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/smartbot/page": "app/(root)/smartbot/page.js",
+  "/(root)/withdrawl/page": "app/(root)/withdrawl/page.js",
+  "/(auth)/sign-in/page": "app/(auth)/sign-in/page.js"
+}
